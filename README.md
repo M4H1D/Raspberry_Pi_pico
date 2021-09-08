@@ -1,5 +1,5 @@
 # Raspberry_Pi_pico
-Raspberry Pi pico microcontroller. we can use it by microPython &amp; C/C++ programing language. 
+Raspberry Pi pico microcontroller. we can use it by MicroPython &amp; C/C++ programing language. 
 
 first you press bootset button and connect pc.
 
